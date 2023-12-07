@@ -1,0 +1,23 @@
+var resume= {
+    "Name":"Yamuna",
+     "Mobile":1234567890,
+     "Place":"Perambur",
+     "ABOUT":"I am flexible, reliable and possess excellent time keeping skills. I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. \nI am able to work well both in a team environment as well as using own initiative.",
+     "EDUCATION":"\nSSLC-87%, \n12TH-65%,  \nBCA-89%",
+     "WORKEXPERIENCE":"I have totally 3years of experience in Healthcare Domain as a Senior Process Associate.",
+     "SkillSet":"\nHTML,  \nCSS,   \nJAVASCRIPT",
+     "Hobbies":"\nLove to Travel, \nWatching Shinchan",
+     "PERSONALINFO":"\nLanguages Known-Tamil,English,Telugu",
+     "DECLARATION":"I hereby affirm that the above-written particulars are true to the best of my knowledge"
+}
+
+ console.log("Name:"+resume.Name);
+ console.log("Mobile:"+resume.Mobile);
+ console.log("Place:"+resume.Place);
+ console.log("ABOUT:"+resume.ABOUT);
+ console.log("Education:"+resume.EDUCATION);
+ console.log("SkillSet:"+resume.SkillSet);
+ console.log("WorkExp:"+resume.WORKEXPERIENCE);
+ console.log("Hobbies:"+resume.Hobbies);
+ console.log("PersonalINFO:"+resume.PERSONALINFO);
+ console.log("Declaration:"+resume.DECLARATION);

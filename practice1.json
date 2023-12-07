@@ -1,0 +1,42 @@
+//for
+
+// var person =[{"name":"Sam",
+// "age":35,
+// "Gender":"Male","favcolor":["Red","white","black"]}];
+// for(i=0;i<person.length;i++){
+//     console.log(person[i]);
+// }
+
+//forEach
+
+
+// var person =[{"name":"Sam",
+// "age":35,
+// "Gender":"Male","favcolor":["Red","white","black"]}];
+// person.forEach((n)=>{
+//     console.log(n);
+// });
+
+// forin
+
+// let school =[{
+//     "standard":"9",
+//     "section":"a",
+//     "subject":"biology"
+// }];
+// for(let key in school)
+// {
+//     console.log(key,school[key]);
+// }
+
+//forof
+
+let school =[{
+        "standard":"9",
+        "section":"a",
+        "subject":"biology"
+    }];
+
+    for(let key in school){
+        console.log(school[key]);
+    }
